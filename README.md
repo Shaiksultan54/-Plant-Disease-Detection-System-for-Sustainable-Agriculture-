@@ -1,4 +1,5 @@
 🌱 Plant Disease Detection System for Sustainable Agriculture 🌾
+
 Overview
 The Plant Disease Detection System leverages machine learning and computer vision to identify plant diseases early and accurately. By providing real-time diagnosis, this system helps farmers take proactive measures, reducing crop losses and promoting sustainable agricultural practices.
 
